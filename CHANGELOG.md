@@ -1,5 +1,16 @@
 # Changelog
 
+## [Unreleased]
+
+### Added
+
+- Added `divide(a, b)` function in `functions.py` to perform division.
+
+### Added Oct 22nd 2025 1705
+
+- Added 'power(a, b)' func in 'funtions.py' to perform power.
+- Updated 'main.py' to run minus and power test code
+
 ## [1.0.0] - 2025-05-11
 
 ### Added
@@ -11,6 +22,3 @@
 - Set up GitHub Actions workflows for automated testing and code review.
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
-
-## internal update - 2025-10-14
--added Power
