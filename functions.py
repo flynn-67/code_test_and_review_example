@@ -7,4 +7,7 @@ def minus(a, b):
     return a - b
 
 def divide(a, b):
-		pass
+    """Divide a by b safely."""
+    if b == 0:
+        return "Error: Cannot divide by zero"
+    return a / b
