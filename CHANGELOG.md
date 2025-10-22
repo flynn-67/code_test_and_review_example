@@ -6,6 +6,7 @@
 
 - Added `divide(a, b)` function in `functions.py` to perform division.
 
+
 ### Added Oct 22nd 2025 1705
 
 - Added 'power(a, b)' func in 'funtions.py' to perform power.
@@ -14,6 +15,13 @@
 ## [1.0.0] - 2025-05-11
 
 ### Added
+
+## [Unreleased]
+
+### Added
+
+- Added `multiply(a, b)` function in `functions.py` to perform multiplication.
+
 
 - Initial release of the project.
 - Implemented `main.py` as the entry point of the application.

@@ -6,6 +6,18 @@ def minus(a, b):
     """Subtract b from a."""
     return a - b
 
+
 def power(a, b):
     '''power a^b'''
     return a ** b
+
+def multiply(a, b):
+    """multiple a and b"""
+    return a * b
+
+def divide(a, b):
+    """Divide a by b safely."""
+    if b == 0:
+        return "Error: Cannot divide by zero"
+    return a / b
+
