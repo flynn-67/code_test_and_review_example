@@ -6,6 +6,11 @@ def minus(a, b):
     """Subtract b from a."""
     return a - b
 
+
+def power(a, b):
+    '''power a^b'''
+    return a ** b
+
 def multiply(a, b):
     """multiple a and b"""
     return a * b

@@ -6,6 +6,12 @@
 
 - Added `divide(a, b)` function in `functions.py` to perform division.
 
+
+### Added Oct 22nd 2025 1705
+
+- Added 'power(a, b)' func in 'funtions.py' to perform power.
+- Updated 'main.py' to run minus and power test code
+
 ## [1.0.0] - 2025-05-11
 
 ### Added
